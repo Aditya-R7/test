@@ -1,0 +1,40 @@
+.tickets{
+    padding: 10px;
+    margin: 10px;
+    width: 20rem;
+    color: #000;
+    height:fit-content;
+    background-color: rgb(210, 255, 220);
+    border-radius: 15px;
+}
+.ticketsH{
+    position: relative;
+    padding: 10px;
+}
+.ticketNo{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.task{
+    text-align: left;
+    margin-left: 5px;
+}
+.icon{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.buttons{
+    margin-bottom: auto; 
+    display: flex;
+    align-items: flex-end; 
+    padding: auto;
+}
+.b1, .b2{
+    margin: 5px;
+    background-color: rgb(223, 229, 235);
+}
+.b1:hover, .b2:hover{
+    background-color: rgb(173, 181, 187);
+}
