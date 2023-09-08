@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './App.css'
-import Cards from './Cards/cards';
+import Cards from './cards/cards';
 import Tickets from './tickets';
 
 

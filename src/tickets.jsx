@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { HiAdjustmentsHorizontal } from "react-icons/hi2";
-import Cards from './Cards/cards';
+import Cards from './cards/cards';
 import './tickets.css';
 
 function tickets() {
