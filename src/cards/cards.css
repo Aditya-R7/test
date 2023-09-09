@@ -4,7 +4,7 @@
     width: 20rem;
     color: #000;
     height:fit-content;
-    background-color: rgb(210, 255, 220);
+    background-color: rgb(180, 248, 194);
     border-radius: 15px;
 }
 .ticketsH{
@@ -33,6 +33,7 @@
 }
 .b1, .b2{
     margin: 5px;
+    color: #000;
     background-color: rgb(223, 229, 235);
 }
 .b1:hover, .b2:hover{
